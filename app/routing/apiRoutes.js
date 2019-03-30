@@ -46,5 +46,4 @@ module.exports = function(app) {
       }
       friendData.push(req.body);
       });
-      // alert("Your new friend is " + friendData[i]);
 };
